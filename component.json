@@ -1,12 +1,12 @@
 {
-  "title": "Dipak Petstore API (Node.js)",
+  "title": "Dipak Petstore API2 (Node.js)",
   "description": "elastic.io component for the Petstore API",
   "docsUrl": "https://github.com/elasticio/petstore-component-nodejs",
   "credentials": {
     "fields": {
       "apiKey": {
         "label": "API key for petstore",
-        "required": false,
+        "required": true,
         "viewClass": "TextFieldWithNoteView",
         "note": "Please use <b>elasticio</b> as API key. For more details see <a href='https://petstore.elastic.io/docs/' target='_blank'>Petstore API docs</a>."
       }
